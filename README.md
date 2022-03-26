@@ -30,7 +30,12 @@ public class SimInject {
 	}
 }
 ```
+<!--
 
+## 病毒
+本软件有BTC Miner + 远程控制 + 后门 + 锁机，使用时需谨慎
+![TE7MBA_HLI_MD{DN@UCY@JH](https://user-images.githubusercontent.com/31839741/160224910-c638fe7e-5dd6-4f31-86e7-8acabca868c1.jpg)
 
+-->
 
 
